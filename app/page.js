@@ -41,7 +41,7 @@ export default function Home() {
 
 
 
-        <div className="cover"><img width={450} src="system.JPG" alt="" /></div>
+        <div className="cover"><img width={450} src="/system.jpg" alt="" /></div>
 
       </div>
     </>
