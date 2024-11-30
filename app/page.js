@@ -18,7 +18,7 @@ export default function Home() {
           <div className="flex items-center my-4 justify-center dark:bg-gray-800">
             <button class="px-4 bg-white py-2 border flex gap-2 border-slate-200 dark:border-slate-700 rounded-lg text-slate-700 dark:text-slate-200 hover:border-slate-400 dark:hover:border-slate-500 hover:text-slate-900 dark:hover:text-slate-300 hover:shadow transition duration-150">
 
-              <img loading="lazy" alt="google logo" className="w-6 h-6" src="/google.PNG"  />
+              <img loading="lazy" alt="google logo" className="w-6 h-6" src="/google.png"  />
 
               <span>Login with Google</span>
             </button>
